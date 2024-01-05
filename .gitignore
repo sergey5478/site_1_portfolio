@@ -5,7 +5,8 @@ __pycache__/
 token.txt
 # C extensions
 *.so
-
+konstruct-template.fig
+konstruct-template.png
 # Distribution / packaging
 .Python
 build/
